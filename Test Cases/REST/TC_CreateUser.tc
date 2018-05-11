@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93bc232c-52c2-4f54-9fcf-8bc734c5688d</testCaseGuid>
+   <variable>
+      <defaultValue>14</defaultValue>
+      <description></description>
+      <id>6793f417-1b12-4b8f-8c40-881c3ec81f1a</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+   <variable>
+      <defaultValue>'MALE'</defaultValue>
+      <description></description>
+      <id>c9ae6de0-0641-4e7a-8a2b-fbedb2343ace</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+</TestCaseEntity>

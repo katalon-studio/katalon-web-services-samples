@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CreateUser</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-04-09T17:37:04</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>22557bcc-3e07-488e-875c-149ea8808e86</testSuiteGuid>
+   <testCaseLink>
+      <guid>a31ac0b2-8354-4424-b317-b8c05e8f023c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/REST/TC_CreateUser</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6854595e-2642-4d01-849b-83e6d3ef99f2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Excel_User</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>6854595e-2642-4d01-849b-83e6d3ef99f2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>age</value>
+         <variableId>6793f417-1b12-4b8f-8c40-881c3ec81f1a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6854595e-2642-4d01-849b-83e6d3ef99f2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>gender</value>
+         <variableId>c9ae6de0-0641-4e7a-8a2b-fbedb2343ace</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
